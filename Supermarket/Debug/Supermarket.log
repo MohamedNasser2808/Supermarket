@@ -1,0 +1,3 @@
+﻿  Admin.cpp
+X:\C++ Projects\Supermarket\Supermarket\Admin.cpp(60,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Supermarket.vcxproj -> X:\C++ Projects\Supermarket\Debug\Supermarket.exe
